@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+![avatar](https://github.com/diego040502/diego040502/assets/103788504/c14ee92e-f760-45cb-9434-0b8ee9d0cc7c)
+
+
 I am a Systems Engineering 💻 student 👨🏽‍🎓 with a focus on Full Stack. I am passionate <br>about front-end development using Vue Js and React Js, and I am comfortable<br>with Bootstrap and Tailwind CSS. On the server side, Java and Spring Boot are my tools. <br>Ready to collaborate on exciting projects! 🧑🏽🙋🏽‍♂️
 
 
